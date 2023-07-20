@@ -15,7 +15,6 @@ def SuperDataAnalyst:
    languages = ["SQL", "Python", "JavaScript"]
 
    return acknowledgements
-}
 ```
 
 ## Linguagens e ferramentas
