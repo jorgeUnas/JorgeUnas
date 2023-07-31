@@ -2,12 +2,14 @@
 
 I love playing with data to find out how to improve any business.
 
+3. <a> [PORTFOLIO](https://github.com/jorgeUnas/Data-Analisys-Projects) </a>
+
 LATEST PROJECTS
 1. <a> [Growth Opportunities for a Short-term Rental Start-up in NYC(In progress ...)](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up) </a>
 2. <a> [A/B Test for E-commerce Sales](https://github.com/jorgeUnas/A-B-Test-for-E-commerce-Sales) </a>
 3. <a> [E-commerce Data Analysis](https://github.com/jorgeUnas/E-commerce_Data_Analysis/blob/main/README.md) </a>
 
-PORTFOLIO  https://github.com/jorgeUnas/Data-Analisys-Projects 
+  https://github.com/jorgeUnas/Data-Analisys-Projects 
 
 ## A bit more about me
 
