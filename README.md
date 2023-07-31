@@ -2,7 +2,8 @@
 
 I love playing with data to find out how to improve any business.
 
-3. <a> [PORTFOLIO](https://github.com/jorgeUnas/Data-Analisys-Projects) </a>
+<a> [PORTFOLIO](https://github.com/jorgeUnas/Data-Analisys-Projects) </a>
+
 LATEST PROJECTS
 1. <a> [Sales Funnel for Metrocar (In progress ...)](https://github.com/jorgeUnas/Sales-Funnel-for-Metrocar/blob/main/README.md) </a>
 2. <a> [Growth Opportunities for a Short-term Rental Start-up in NYC(In progress ...)](https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up) </a>
