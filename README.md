@@ -3,7 +3,7 @@
 I love playing with data to find out how to improve any business.
 
 LATEST PROJECTS
-1. (Growth Opportunities for a Short-term Rental Start-up in NYC(In progress ...))[https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up]
+1. [Growth Opportunities for a Short-term Rental Start-up in NYC(In progress ...)] (https://github.com/jorgeUnas/Growth_Opportunities_for_a_Short-term_Rental_Start-up)
 
 PORTFOLIO  https://github.com/jorgeUnas/Data-Analisys-Projects 
 
