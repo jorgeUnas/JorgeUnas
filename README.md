@@ -40,8 +40,7 @@ def SuperDataAnalyst:
 
 <br>
 
-## Rede sociais
-
+## Social Media
 
 👔 [LinkedIn][linkedin]
 
