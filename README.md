@@ -19,7 +19,7 @@ def SuperDataAnalyst:
    return acknowledgements
 ```
 
-## Linguagens e ferramentas
+## Languages and tools 
 
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
