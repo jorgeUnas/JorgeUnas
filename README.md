@@ -28,12 +28,12 @@ LATEST PROJECTS
 ```python
 def SuperDataAnalyst:
    name = "Jorge Unas"
-   acknowledgements = "Data Analysis"
+   acknowledgements = ["Data Analysis", "Web Development"]
 
-   primarySkillset = ["Communication", "Problem Solver", "Teamwork", "Organization"]
+   primarySkillSet = ["Communication", "Problem Solver", "Teamwork", "Organization"]
    languages = ["SQL", "Python", "JavaScript"]
 
-   return acknowledgements
+   return acknowledgements * primarySkillSet
 ```
 
 
