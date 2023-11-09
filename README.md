@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love playing with data to find out how to improve any business.
+Let me mind your business.
 
 <a> [PORTFOLIO](https://github.com/jorgeUnas/Data-Analisys-Projects) </a>
 
